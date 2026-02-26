@@ -39,6 +39,7 @@ Presiona Shift + A, ve a Mesh y selecciona Plane para crear un polígono básico
 Presiona Tab para entrar en modo edición.
 Usa las teclas 1, 2 y 3 para cambiar entre selección de vértices, aristas y caras.
 Puedes mover los vértices con la tecla G, escalar con S y rotar con R para modificar la forma del polígon
+<img width="1508" height="848" alt="Captura de pantalla 2026-02-26 165417" src="https://github.com/user-attachments/assets/ef19dd06-4088-4bb0-ac19-2b52307f6fbf" />
 
 Como realizar una flor de vida 
 
