@@ -47,6 +47,8 @@ Abre Blender y elimina el cubo inicial con la tecla X y selecciona Delete. Luego
 Ahora duplica el círculo con Shift + D y muévelo con la tecla G sobre el eje X hasta que su borde toque el centro del primer círculo. Ese será tu segundo círculo. Repite este proceso duplicando y moviendo el círculo alrededor del primero, formando un anillo de seis círculos iguales. Debes colocarlos como si fueran pétalos alrededor del círculo central.
 Después crea un segundo anillo de círculos. Duplica los círculos del primer anillo y muévelos un poco más hacia afuera, siguiendo el mismo patrón circular. Debes mantener siempre la misma distancia entre centros para que el diseño sea simétrico. Con esto se forma el patrón clásico de la Flor de la Vida.
 
+<img width="1502" height="890" alt="image" src="https://github.com/user-attachments/assets/b879b2e1-18c1-47ac-99d9-27923b6c6270" />
+
 1.6 Procesamientos de mapas de bits
 
 El procesamiento de mapas de bits (bitmap processing) es el conjunto de técnicas utilizadas para manipular imágenes digitales formadas por píxeles, donde cada píxel almacena un valor de color. A diferencia de los gráficos vectoriales, que se describen mediante ecuaciones matemáticas, los mapas de bits representan la imagen como una matriz de puntos, por lo que su calidad depende directamente de la resolución.
